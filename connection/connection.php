@@ -17,7 +17,7 @@ class Connection
 
 	    try {
 			$this->conetion = new PDO("mysql:host={$host};dbname={$database}; charset=utf8", $username,$password);
-		$this->conetion->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+		     $this->conetion->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 		
 	    } catch (PDOException $e) {
 		echo $e->getMessage();
