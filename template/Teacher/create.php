@@ -7,10 +7,10 @@
 	<br>
 <div class="field">
 	<form class="form">
-		<label class="label">New Students</label>
+		<label class="label">New Teacher</label>
 		<label class="label">Full Name</label>
 		<input type="text" name="txtName" class="input is-rounded" placeholder="FullName"> <br><br>
-		<label class="label">BirthDate</label>
+		<label class="label">BirtDate</label>
 		<input type="date" name="txtBirth" class="input is-rounded"><br><br>
 		<div class="select is-rounded">
 			<div class="control">

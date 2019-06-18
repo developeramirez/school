@@ -32,39 +32,6 @@
           </a>
         </div>
       </div>
-      <?php  /*  */?>
-      <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link">
-          Average
-        </a>
-
-        <div class="navbar-dropdown">
-          <a class="navbar-item" href="?menu=create"> Create </a>
-          <a class="navbar-item" href="?menu=list"> View  </a>
-          <a class="navbar-item" href="?menu=update"> Actualizar </a>
-          <hr class="navbar-divider">
-          <a class="navbar-item">
-            Report an issue
-          </a>
-        </div>
-      </div>
-
-       <?php  /*  */?>
-      <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link">
-          Sequence
-        </a>
-
-        <div class="navbar-dropdown">
-          <a class="navbar-item" href="?menu=create"> Create </a>
-          <a class="navbar-item" href="?menu=list"> View  </a>
-          <a class="navbar-item" href="?menu=update"> Actualizar </a>
-          <hr class="navbar-divider">
-          <a class="navbar-item">
-            Report an issue
-          </a>
-        </div>
-      </div>
 
        <?php  /*  */?>
 
@@ -74,9 +41,9 @@
         </a>
 
         <div class="navbar-dropdown">
-          <a class="navbar-item" href="?menu=create"> Create </a>
-          <a class="navbar-item" href="?menu=list"> View  </a>
-          <a class="navbar-item" href="?menu=update"> Actualizar </a>
+          <a class="navbar-item" href="?menu=createSSY"> Create </a>
+          <a class="navbar-item" href="?menu=listSSY"> View  </a>
+          <a class="navbar-item" href="?menu=updateSSY"> Actualizar </a>
           <hr class="navbar-divider">
           <a class="navbar-item">
             Report an issue
@@ -91,9 +58,9 @@
         </a>
 
         <div class="navbar-dropdown">
-          <a class="navbar-item" href="?menu=create"> Create </a>
-          <a class="navbar-item" href="?menu=list"> View  </a>
-          <a class="navbar-item" href="?menu=update"> Actualizar </a>
+          <a class="navbar-item" href="?menu=createS"> Create </a>
+          <a class="navbar-item" href="?menu=listS"> View  </a>
+          <a class="navbar-item" href="?menu=updateS"> Actualizar </a>
           <hr class="navbar-divider">
           <a class="navbar-item">
             Report an issue
@@ -101,22 +68,6 @@
         </div>
       </div>
 
-       <?php  /*  */?>
-      <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link">
-          Subject_Year
-        </a>
-
-        <div class="navbar-dropdown">
-          <a class="navbar-item" href="?menu=create"> Create </a>
-          <a class="navbar-item" href="?menu=list"> View  </a>
-          <a class="navbar-item" href="?menu=update"> Actualizar </a>
-          <hr class="navbar-divider">
-          <a class="navbar-item">
-            Report an issue
-          </a>
-        </div>
-      </div>
 
        <?php  /*  */?>
       <div class="navbar-item has-dropdown is-hoverable">
@@ -125,35 +76,15 @@
         </a>
 
         <div class="navbar-dropdown">
-          <a class="navbar-item" href="?menu=create"> Create </a>
-          <a class="navbar-item" href="?menu=list"> View  </a>
-          <a class="navbar-item" href="?menu=update"> Actualizar </a>
+          <a class="navbar-item" href="?menu=createT"> Create </a>
+          <a class="navbar-item" href="?menu=listT"> View  </a>
+          <a class="navbar-item" href="?menu=updateT"> Actualizar </a>
           <hr class="navbar-divider">
           <a class="navbar-item">
             Report an issue
           </a>
         </div>
       </div>
-
-       <?php  /*  */?>
-      <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link">
-          Year
-        </a>
-
-        <div class="navbar-dropdown">
-          <a class="navbar-item" href="?menu=create"> Create </a>
-          <a class="navbar-item" href="?menu=list"> View  </a>
-          <a class="navbar-item" href="?menu=update"> Actualizar </a>
-          <hr class="navbar-divider">
-          <a class="navbar-item">
-            Report an issue
-          </a>
-        </div>
-      </div>
-
-
-
 
     </div>
 

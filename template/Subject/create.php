@@ -7,11 +7,8 @@
 	<br>
 <div class="field">
 	<form class="form">
-		<label class="label">New Students</label>
-		<label class="label">Full Name</label>
+		<label class="label">New Subject</label>
 		<input type="text" name="txtName" class="input is-rounded" placeholder="FullName"> <br><br>
-		<label class="label">BirthDate</label>
-		<input type="date" name="txtBirth" class="input is-rounded"><br><br>
 		<div class="select is-rounded">
 			<div class="control">
 				<select>
@@ -21,7 +18,7 @@
 				</select>
 			</div>	
 		</div><br><br>
-		<button class="button is-link">Save Student</button>
+		<button class="button is-link">Save Subject</button>
 
 	</form><br>
 </div>
